@@ -84,7 +84,7 @@ urllib3==1.24.1
 virtualenv==20.0.5
 virtualenvwrapper-win==1.2.6
 wcwidth==0.1.7
-Werkzeug==0.11.15
+Werkzeug==0.15.3
 widgetsnbextension==1.2.6
 win-unicode-console==0.5
 wrapt==1.10.8
